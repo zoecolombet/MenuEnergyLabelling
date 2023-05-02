@@ -4,5 +4,5 @@ This repository shares the code for our analysis of the health impact of the men
 
 This repository contains the following files:
 
-        codeMenuEnergyLabelling - .R - codes for running the model
+        codeMenuEnergyLabelling.R : codes for running the model
     
